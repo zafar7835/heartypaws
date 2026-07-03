@@ -1,0 +1,6 @@
+{
+  "name": "Hearty Paws Pet Spa & Clinic",
+  "description": "Best pet grooming, vaccination & treatment clinic in South Delhi. Open 7 days 8AM-8PM. Call 8800715311",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

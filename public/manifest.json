@@ -1,0 +1,18 @@
+{
+  "name": "Hearty Paws Pet Spa & Clinic",
+  "short_name": "Hearty Paws",
+  "description": "Best pet grooming, vaccination & treatment clinic in South Delhi. Shop No. 7, Shanti Niketan Market, New Delhi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
